@@ -1,0 +1,157 @@
+
+
+
+thumbnail .ellipse-3 {
+  position: absolute;
+  left: -470px;
+  top: -315px;
+  width: 749px;
+  height: 630px;
+}
+.thumbnail .whats-app-image-20240821-at-133050847-d-5286-removebg-preview-1 {
+  background: url('/Asset/whats_app_image_20240821_at_133050847_d_5286_removebg_preview_1.png') 50% / cover no-repeat;
+  width: 266px;
+  height: 266px;
+}
+.thumbnail .home {
+  position: relative;
+  bottom: 1200px;
+  margin-right: 18px;
+  width: 98px;
+  overflow-wrap: break-word;
+  font-family: 'Otomanopee One';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.115;
+  color: #FFFFFF;
+}
+.thumbnail .product {
+  position: relative;
+  bottom: 1200px;
+  overflow-wrap: break-word;
+  font-family: 'Otomanopee One';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.115;
+  color: #FFFFFF;
+}
+.thumbnail .about {
+  position: relative;
+  bottom: 1200px;
+  overflow-wrap: break-word;
+  font-family: 'Otomanopee One';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.115;
+  color: #FFFFFF;
+}
+.thumbnail .container-1 {
+  margin: 56px 0 174px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 865px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.thumbnail .container-2 {
+  margin-bottom: 116px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 1651px;
+  box-sizing: border-box;
+}
+.thumbnail .line-1 {
+  margin: 0 143px 28.3px 143px;
+  align-self: flex-start;
+  width: 455px;
+  height: 2.2px;
+}
+.thumbnail .kamera {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 800;
+  font-size: 96px;
+  text-transform: uppercase;
+  color: #700808;
+}
+.thumbnail .landing-page {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 38.4px;
+  letter-spacing: 6.4px;
+  color: #7a0909;
+}
+.thumbnail .group-106 {
+  position: relative;
+  margin-bottom: 21.4px;
+  display: flex;
+  align-self: flex-start;
+  padding: 0 0 43.9px 0px;
+  box-sizing: border-box;
+}
+.thumbnail .treating-all-skin-co {
+  margin-left: 2px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.982;
+  color: #FFFFFF;
+}
+.thumbnail .group-110 {
+  margin-right: 154.4px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.thumbnail .ellipse-1 {
+  position: relative;
+  margin: 163.3px 0 85px 0;
+  width: 1077px;
+  height: 285px;
+}
+.thumbnail .container {
+  margin-left: 138px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.thumbnail .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.thumbnail .c-83-adfc-2-fcaf-473-f-9935-b-6962-f-114-b-45-eos-r-50-black-rf-s-1845-mm-1 {
+  background: url('/Asset/b_4_f_1365363324796_b_5177194_d_12_c_6869_eos_r_5_cfront_left_wrf_2470_mm_f_28_lis_usm_362_x_3201.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 166px;
+  right: 452px;
+  width: 584px;
+  height: 516px;
+}
+.thumbnail .b-4-f-1365363324796-b-5177194-d-12-c-6869-eos-r-5-cfront-left-wrf-2470-mm-f-28-lis-usm-362-x-3201 {
+  background: url('/Asset/c_83_adfc_2_fcaf_473_f_9935_b_6962_f_114_b_45_eos_r_50_black_rf_s_1845_mm_1.png') 50% / cover no-repeat;
+  position: absolute;
+  right: 12px;
+  bottom: 213px;
+  width: 612px;
+  height: 526px;
+}
+.thumbnail {
+  background: #524646;
+  display: center;
+  padding-right: 33px;
+  width: 2000px;
+  box-sizing: border-box;
+  
+}
